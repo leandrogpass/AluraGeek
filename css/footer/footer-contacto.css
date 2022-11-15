@@ -1,0 +1,73 @@
+.footer__contacto{
+    width: 50%;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__contacto__titulo{
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.nombre__container{
+    box-sizing: border-box;
+    width: 100%;
+    height: 56px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.footer__contacto__label{
+    font-size: 12px;
+    color: #A2A2A2;
+    margin-top: 10px;
+}
+
+.footer__contacto__nombre{
+    width: 100%;
+    height: 20px;
+    border: none;
+    padding: 5px 0;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    outline: none;
+}
+
+.mensaje__container{
+    box-sizing: border-box;
+    width: 100%;
+    height: 82px;
+    border-radius: 4px;
+    background: #FFFFFF;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.footer__contacto__mensaje{
+    width: 100%;
+    height: 40px;
+    padding: 5px 0;
+    border: none;
+    outline: none;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    resize: none;
+}
+
+.footer__contacto__boton{
+    width: 144px;
+    height: 51px;
+    background: #2A7AE4;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    border: none;
+}

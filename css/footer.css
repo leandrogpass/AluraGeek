@@ -1,0 +1,21 @@
+.footer{
+    background: #EAF2FD;
+    width: 100vw;
+    height: 368px;
+    margin-top: 10px;
+    display: flex;
+    align-content: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    color: #464646;
+    line-height: 19px;            
+}
+
+.footer__contenido{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 1136px;
+    margin: auto;
+       
+}

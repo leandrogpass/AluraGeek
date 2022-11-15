@@ -1,0 +1,14 @@
+.articulos{
+    height: 252px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+@media screen and (max-width: 820px){
+    @media screen and (max-width: 820px){
+        .articulo:nth-child(5), .articulo:nth-child(6){
+            display: none !important;
+        }
+    }
+}

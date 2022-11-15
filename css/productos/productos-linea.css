@@ -1,0 +1,12 @@
+.productos__linea{
+    width: 80%;
+    margin: 4rem auto;
+      
+}
+
+@media screen and (max-width: 820px){
+    .productos__linea{
+        margin: 3rem auto;
+    }
+}
+

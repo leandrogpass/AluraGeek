@@ -1,0 +1,23 @@
+.articulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+.articulo__titulo{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #464646;
+}
+
+.articulo_ver{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2A7AE4;
+    text-decoration: none;
+
+}
